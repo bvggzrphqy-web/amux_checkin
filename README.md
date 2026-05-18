@@ -7,6 +7,7 @@ Daily AMUX check-in through GitHub Actions.
 The workflow runs at `22:00 UTC`, which is `06:00 Asia/Shanghai`.
 
 GitHub scheduled workflows can be delayed by platform load, so this is the closest GitHub Actions can get to a 06:00 run.
+感觉不太准确
 
 ## GitHub setup
 
